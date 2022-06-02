@@ -32,7 +32,9 @@ h2{
 
 h3{    
     font-weight: bold;
-    color: #753d2b;    
+    color: #753d2b;
+    text-align: center;
+    letter-spacing: 1px;    
     
     
 }
@@ -60,4 +62,11 @@ a{
 nav{background-color:#bbee00 ;}
 img{
     width: 100%;
+}
+br{
+    padding-left: 40px; 
+}
+
+#buso{
+    text-align: left;
 }
